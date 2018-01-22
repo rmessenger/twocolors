@@ -1,2 +1,7 @@
 # Ignore IPython checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore test animations and images
+animations/
+source_images/
+
